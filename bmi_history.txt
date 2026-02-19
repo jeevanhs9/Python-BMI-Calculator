@@ -1,0 +1,6 @@
+Male,70.0,168.0,24.8,Normal
+Male,987.0,199.0,249.2,Obese
+Male,23.0,244.0,3.9,Underweight
+Female,23.0,244.0,3.9,Underweight
+Female,234.0,45.0,1155.6,Obese
+Male,234.0,45.0,1155.6,Obese
